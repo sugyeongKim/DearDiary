@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/colorPrimaryDark">
+
+        <ImageButton
+            android:id="@+id/saveButton"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:layout_gravity="right"
+            android:background="@drawable/ic_launcher_foreground"
+            app:srcCompat="@android:drawable/ic_menu_add" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="224dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="25px"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="2019.11.28"
+            android:textAlignment="textStart"
+            android:textColor="#FFFFFF"
+            android:textSize="36sp" />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:fontFamily="casual"
+        android:text="제목"
+        android:textAlignment="center"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/textfield"
+        android:layout_width="match_parent"
+        android:layout_height="167dp"
+        android:fontFamily="casual"
+        android:text="내용"
+        android:textAlignment="center"
+        android:textSize="36sp" />
+</LinearLayout>
