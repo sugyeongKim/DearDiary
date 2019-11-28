@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545966925696",
+    "firebase_url": "https://thanksdiary-f7750.firebaseio.com",
+    "project_id": "thanksdiary-f7750",
+    "storage_bucket": "thanksdiary-f7750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545966925696:android:c8b5c017014123eada0365",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.sugyeong.thanksdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545966925696-cofgg7q9se392v0uehpgnfsmgm8j5v20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.sugyeong.thanksdiary",
+            "certificate_hash": "f2831f97fe4a0c5bfb19428d518e6b48f45fdc7f"
+          }
+        },
+        {
+          "client_id": "545966925696-7sekrn89tjmi3qc068vvj467t15a1b88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXWv6AcRXFqK6e4af3p8IP1RfO6lALic0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545966925696-7sekrn89tjmi3qc068vvj467t15a1b88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
